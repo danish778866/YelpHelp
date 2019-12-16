@@ -1,4 +1,4 @@
-# YelpDataAnalysis
+# Yelp Help
 Repository for project done for CS784 @ UW-Madison
 
 # Authors
