@@ -1,7 +1,16 @@
 # YelpDataAnalysis
 Repository for project done for CS784 @ UW-Madison
 
-This repo includes scripts used to find insights on yelp restaurant dataset.
+# Authors
+Srujana
+
+Aditya Rungta
+
+Danish
+
+# Description
+This repo includes scripts used to find insights on yelp restaurant dataset
+
 # Script
 Script folder includes correlation queries ('C' series) and aggregation queries ('A' series)
 
